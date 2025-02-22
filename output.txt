@@ -1,1 +1,2 @@
-10 
+Not same
+Same
